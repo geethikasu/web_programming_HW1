@@ -1,0 +1,46 @@
+body {
+ background-image: url("image.png");
+ color: white;
+ font: sans-serif;
+ margin:20px;
+}
+
+a {
+	color: white
+}
+
+h2 {
+	margin: 50px;
+	text-align: center;
+}
+
+
+img {
+	width: 400px;
+	height: 500px;
+	margin: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 70%;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(1) {
+  background-color: #A49A97;
+}
+tr:nth-child(2) {
+  background-color: #814C3C;
+}
+tr:nth-child(3) {
+  background-color: #444B08;
+}
+tr:nth-child(4) {
+  background-color: #49084B;
+}
